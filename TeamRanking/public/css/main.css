@@ -1,0 +1,30 @@
+.wrapper{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.matches{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 3px;
+    font-size: 17px;
+    border: 2px solid black;
+}
+
+.champ{
+    background-color: aqua;
+}
+
+.europa{
+    background-color: orange;
+}
+
+.conferance{
+    background-color: green;
+}
+
+.dawn{
+    background-color: red;
+}
